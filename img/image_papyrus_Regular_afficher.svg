@@ -1,19 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1656" height="573" viewBox="0 0 1656 573">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1609" height="576" viewBox="0 0 1609 576">
   <defs>
     <clipPath id="clip-path">
       <rect width="1508.603" height="6.902" fill="none"/>
     </clipPath>
   </defs>
-  <g id="image_papyrus_Regular_afficher" data-name="image papyrus Regular afficher" transform="translate(-114.491 -238)">
-    <text id="Hauteur_d_x" data-name="Hauteur d’x" transform="translate(1678 485)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-51.108" y="0">Hauteur d’x</tspan></text>
-    <text id="Ligne_de_pied" data-name="Ligne de pied" transform="translate(1607 572)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-59.922" y="0">Ligne de pied</tspan></text>
-    <text id="Ligne_ascendante" data-name="Ligne ascendante" transform="translate(1627 364)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-76.738" y="0">Ligne ascendante</tspan></text>
-    <text id="Panse" transform="translate(389 261)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-25.479" y="0">Panse</tspan></text>
-    <text id="Jambes_inférieur" data-name="Jambes  inférieur" transform="translate(533 805)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-74.805" y="0" xml:space="preserve">Jambes  inférieur</tspan></text>
-    <text id="Spine" transform="translate(904 261)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-24.502" y="0">Spine</tspan></text>
-    <text id="Barre_de_traverse" data-name="Barre de traverse" transform="translate(1130 261)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-74.521" y="0">Barre de traverse</tspan></text>
-    <text id="Jambage_supérieur" data-name="Jambage supérieur" transform="translate(1374 261)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-83.369" y="0">Jambage supérieur</tspan></text>
-    <text id="Hauteur_de_capitale" data-name="Hauteur de capitale" transform="translate(208 460)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-86.333" y="0">Hauteur de capitale</tspan></text>
+  <g id="Groupe_59" data-name="Groupe 59" transform="translate(-121 -240)">
+    <text id="Hauteur_d_x" data-name="Hauteur d’x" transform="translate(1678 485)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="20" font-family="Helvetica"><tspan x="-50.359" y="0">Hauteur</tspan><tspan y="0" font-family="AlBayan, Al Bayan"> </tspan><tspan y="0">d’x</tspan></text>
+    <text id="Ligne_de_pied" data-name="Ligne de pied" transform="translate(1607 572)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="20" font-family="Helvetica"><tspan x="-58.497" y="0">Ligne</tspan><tspan y="0" font-family="AlBayan, Al Bayan"> </tspan><tspan y="0">de</tspan><tspan y="0" font-family="AlBayan, Al Bayan"> </tspan><tspan y="0">pied</tspan></text>
+    <text id="Ligne_ascendante" data-name="Ligne ascendante" transform="translate(1627 364)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="20" font-family="Helvetica"><tspan x="-78.177" y="0">Ligne</tspan><tspan y="0" font-family="AlBayan, Al Bayan"> </tspan><tspan y="0">ascendante</tspan></text>
+    <text id="Panse" transform="translate(389 261)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="20" font-family="Helvetica"><tspan x="-28.354" y="0">Panse</tspan></text>
+    <text id="Jambes_inférieur" data-name="Jambes  inférieur" transform="translate(533 805)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="20" font-family="Helvetica"><tspan x="-75.143" y="0">Jambes</tspan><tspan y="0" xml:space="preserve" font-family="AlBayan, Al Bayan">  </tspan><tspan y="0">inférieur</tspan></text>
+    <text id="Spine" transform="translate(904 261)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="20" font-family="Helvetica"><tspan x="-25.576" y="0">Spine</tspan></text>
+    <text id="Barre_de_traverse" data-name="Barre de traverse" transform="translate(1130 261)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="20" font-family="Helvetica"><tspan x="-75.699" y="0">Barre</tspan><tspan y="0" font-family="AlBayan, Al Bayan"> </tspan><tspan y="0">de</tspan><tspan y="0" font-family="AlBayan, Al Bayan"> </tspan><tspan y="0">traverse</tspan></text>
+    <text id="Jambage_supérieur" data-name="Jambage supérieur" transform="translate(1374 261)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="20" font-family="Helvetica"><tspan x="-84.827" y="0">Jambage</tspan><tspan y="0" font-family="AlBayan, Al Bayan"> </tspan><tspan y="0">supérieur</tspan></text>
+    <text id="Hauteur_de_capitale" data-name="Hauteur de capitale" transform="translate(208 460)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="20" font-family="Helvetica"><tspan x="-85.167" y="0">Hauteur</tspan><tspan y="0" font-family="AlBayan, Al Bayan"> </tspan><tspan y="0">de</tspan><tspan y="0" font-family="AlBayan, Al Bayan"> </tspan><tspan y="0">capitale</tspan></text>
     <g id="Groupe_41" data-name="Groupe 41" transform="translate(-104 41)">
       <line id="Ligne_19" data-name="Ligne 19" y2="62.458" transform="translate(1639.5 492.956)" fill="none" stroke="#fff" stroke-width="2"/>
       <path id="Polygone_3" data-name="Polygone 3" d="M4.5,0,9,7H0Z" transform="translate(1644 562) rotate(180)" fill="#fff"/>
@@ -370,7 +370,7 @@
             <line id="Ligne_15-108" data-name="Ligne 15" x2="8" transform="translate(106.5 531.5)" fill="none" stroke="#fff" stroke-width="2"/>
           </g>
         </g>
-        <text id="Papyrus_Regular" data-name="Papyrus Regular" transform="translate(1269.991 706.56)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="210" font-family="Papyrus-Regular, Papyrus" letter-spacing="0.05em"><tspan x="-826.034" y="0">Papyrus Regular</tspan></text>
+        <text id="Papyrus_Regular" data-name="Papyrus Regular" transform="translate(1269.991 706.56)" fill="#d9c6a0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="210" font-family="Papyrus-Condensed, Papyrus" letter-spacing="0.05em"><tspan x="-603.166" y="0">Papyrus Regular</tspan></text>
       </g>
     </g>
     <g id="Groupe_38" data-name="Groupe 38" transform="translate(-332.491 -182.56)">

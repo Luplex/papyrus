@@ -343,7 +343,7 @@ img{
 .quia2{
     width: 55vw;
     background: rgba( 255, 255, 255, 0.00 );
-    backdrop-filter: blur( 10.5px );
+    backdrop-filter: blur( 6.5px );
     border-radius: 10px;
 }
 
@@ -795,13 +795,23 @@ option{
       .custom-range-slider:hover .bubble {
         background: #0097f0;
       }
-
+      .imagegos{
+          display: none;
+      }
 
 
 /*Version responsive*/
 @media screen and (max-width:1570px){
     h2{
         margin-top: 30vh;
+    }
+}
+@media screen and (max-width:1410px){
+    .imagegos{
+        display: block;
+    }
+    .imagevideo{
+        display: none;
     }
 }
 @media screen and (max-width:1218px){
@@ -903,7 +913,7 @@ h3{
     grid-template-columns: repeat(2, 1fr);
 }
 .stylecondensed {
-    font-size: 200px;
+    font-size: 150px;;
     height: 30%;
 }
 .variantetypo {
@@ -947,11 +957,20 @@ input[type='range'] {
         font-size: 8px;
 }
 @media screen and (max-width: 320px) {
+    .calldec {
+        bottom: 150px;
+    }
+    .calldec p {
+        font-size: 18px;
+        margin-right: 30px;
+        margin-left: 30px;
+    }
     .stylecondensed {
         font-size: 150px;
     }
     .imagepp {
         max-width: 90vw;
+        top: 20vh;
     }
     h3{
         font-size: 30px;
@@ -968,4 +987,6 @@ input[type='range'] {
    .containerslider2 p {
     margin-top: 10vh;
    }
-  }
+}
+}
+}
