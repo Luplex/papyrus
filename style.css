@@ -947,6 +947,9 @@ input[type='range'] {
         font-size: 8px;
 }
 @media screen and (max-width: 320px) {
+    .stylecondensed {
+        font-size: 150px;
+    }
     .imagepp {
         max-width: 90vw;
     }
