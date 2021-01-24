@@ -6,19 +6,19 @@
 
 @font-face {
     font-family: 'PAPYRUS';
-    src: url('typo/PAPYRUS.TTF') ;
+    src: url('typo/PAPYRUS.ttf') ;
 }
 @font-face {
     font-family: 'PixelPapyrus';
-    src: url('typo/PixelPapyrus.TTF') ;
+    src: url('typo/PixelPapyrus.ttf') ;
 }
 @font-face {
     font-family: 'Smooth_Papyrus_Demo';
-    src: url('typo/Smooth_Papyrus_Demo.TTF') ;
+    src: url('typo/Smooth_Papyrus_Demo.ttf') ;
 }
 @font-face {
     font-family: 'Comic_Papyrus';
-    src: url('typo/Comic_Papyrus.TTF') ;
+    src: url('typo/Comic_Papyrus.ttf') ;
 }
 *{
    

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="114" viewBox="0 0 32 114">
+  <defs>
+    <clipPath id="clip-path">
+      <rect y="187" width="32" height="114" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="bouton_slide" data-name="bouton slide" transform="translate(0 -187)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <text id="_10" data-name="10" transform="translate(3 350)" fill="#d9c6a0" stroke="#d9c6a0" stroke-width="1" font-size="349" font-family="AncientEgyptianHieroglyphs, Ancient Egyptian Hieroglyphs"><tspan x="0" y="0">10</tspan></text>
+  </g>
+</svg>
