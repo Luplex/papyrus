@@ -211,7 +211,7 @@ h3{
     font-family: 'Titillium Web', sans-serif;
     font-size: 17px;
     color: #D9C6A0;
-    text-align: justify;
+    
     
 }
 
@@ -666,6 +666,7 @@ h5{
     width: 80vw;
     height: 50vh;
     margin-top:100px;
+    padding-bottom: 20vh;
 }
 
 .placeholder{
@@ -795,10 +796,7 @@ option{
       .custom-range-slider:hover .bubble {
         background: #0097f0;
       }
-      .imagegos{
-          display: none;
-      }
-
+      
 
 /*Version responsive*/
 @media screen and (max-width:1570px){
@@ -806,14 +804,7 @@ option{
         margin-top: 30vh;
     }
 }
-@media screen and (max-width:1410px){
-    .imagegos{
-        display: block;
-    }
-    .imagevideo{
-        display: none;
-    }
-}
+
 @media screen and (max-width:1218px){
     h5{
         font-size: 15px;
