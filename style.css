@@ -20,7 +20,9 @@
     font-family: 'Comic_Papyrus';
     src: url('typo/Comic_Papyrus.ttf') ;
 }
-
+html {
+    overflow-x: hidden;
+}
 nav ul li a{
     scroll-behavior: smooth;
 }
